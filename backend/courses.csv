@@ -1,0 +1,74 @@
+course_id,course_name,department,level,delivery_mode,credits,duration_weeks,rating,tuition_fee_inr,year_offered
+CS101,Introduction to Programming,CS,UG,online,4,16,4.5,35000,2024
+CS102,Data Structures and Algorithms,CS,UG,hybrid,4,16,4.7,40000,2024
+CS201,Database Management Systems,CS,UG,offline,3,14,4.6,38000,2024
+CS301,Machine Learning Fundamentals,CS,PG,online,3,12,4.8,75000,2024
+CS302,Artificial Intelligence,CS,PG,online,4,16,4.9,80000,2024
+CS303,Cloud Computing,CS,PG,hybrid,3,12,4.7,70000,2024
+EE101,Circuit Analysis,EE,UG,offline,4,16,4.2,38000,2024
+EE102,Digital Electronics,EE,UG,hybrid,4,16,4.4,42000,2024
+EE201,Signals and Systems,EE,UG,offline,3,14,4.3,40000,2024
+EE301,Power Systems,EE,PG,offline,4,16,4.5,65000,2024
+EE302,VLSI Design,EE,PG,hybrid,3,12,4.6,72000,2024
+ME101,Engineering Mechanics,ME,UG,offline,4,16,4.1,36000,2024
+ME102,Thermodynamics,ME,UG,offline,3,14,4.3,38000,2024
+ME201,Fluid Mechanics,ME,UG,hybrid,4,16,4.4,42000,2024
+ME301,Advanced Manufacturing,ME,PG,offline,3,12,4.5,68000,2024
+ME302,Robotics and Automation,ME,PG,hybrid,4,16,4.7,75000,2024
+CE101,Engineering Drawing,CE,UG,offline,3,14,4.0,32000,2024
+CE102,Surveying,CE,UG,hybrid,4,16,4.2,35000,2024
+CE201,Structural Analysis,CE,UG,offline,4,16,4.3,40000,2024
+CE301,Advanced Concrete Technology,CE,PG,offline,3,12,4.4,62000,2024
+CHEM101,General Chemistry,CHEM,UG,offline,4,16,4.1,34000,2024
+CHEM102,Organic Chemistry,CHEM,UG,hybrid,4,16,4.3,38000,2024
+CHEM301,Chemical Engineering,CHEM,PG,offline,3,12,4.5,66000,2024
+MATH101,Calculus I,MATH,UG,online,3,14,4.4,28000,2024
+MATH102,Linear Algebra,MATH,UG,online,3,14,4.5,30000,2024
+MATH201,Differential Equations,MATH,UG,hybrid,3,14,4.6,32000,2024
+MATH301,Advanced Statistics,MATH,PG,online,4,16,4.7,55000,2024
+PHYS101,Physics I,PHYS,UG,offline,4,16,4.2,33000,2024
+PHYS102,Physics II,PHYS,UG,offline,4,16,4.3,35000,2024
+PHYS301,Quantum Mechanics,PHYS,PG,hybrid,3,12,4.8,70000,2024
+CS103,Web Development,CS,UG,online,3,12,4.6,42000,2024
+CS104,Mobile App Development,CS,UG,online,3,12,4.7,45000,2024
+CS202,Operating Systems,CS,UG,hybrid,4,16,4.5,44000,2024
+CS203,Computer Networks,CS,UG,hybrid,4,16,4.6,46000,2024
+CS304,Deep Learning,CS,PG,online,4,16,4.9,85000,2024
+CS305,Natural Language Processing,CS,PG,online,3,12,4.8,78000,2024
+EE103,Electromagnetic Theory,EE,UG,offline,4,16,4.3,39000,2024
+EE202,Control Systems,EE,UG,hybrid,4,16,4.4,43000,2024
+EE303,Renewable Energy Systems,EE,PG,hybrid,3,12,4.6,68000,2024
+ME103,Material Science,ME,UG,offline,3,14,4.2,37000,2024
+ME202,Machine Design,ME,UG,offline,4,16,4.4,41000,2024
+ME303,Computational Fluid Dynamics,ME,PG,hybrid,3,12,4.6,72000,2024
+CE103,Building Materials,CE,UG,offline,3,14,4.1,33000,2024
+CE202,Geotechnical Engineering,CE,UG,offline,4,16,4.3,39000,2024
+CE302,Earthquake Engineering,CE,PG,offline,3,12,4.5,64000,2024
+CHEM103,Physical Chemistry,CHEM,UG,offline,4,16,4.2,36000,2024
+CHEM302,Process Design,CHEM,PG,offline,4,16,4.6,70000,2024
+MATH102,Discrete Mathematics,MATH,UG,online,3,14,4.5,29000,2024
+MATH302,Numerical Methods,MATH,PG,hybrid,3,12,4.6,58000,2024
+PHYS103,Modern Physics,PHYS,UG,offline,4,16,4.4,36000,2024
+PHYS302,Solid State Physics,PHYS,PG,hybrid,3,12,4.7,68000,2024
+CS105,Cybersecurity Fundamentals,CS,UG,online,3,12,4.8,48000,2024
+CS204,Software Engineering,CS,UG,hybrid,4,16,4.7,47000,2024
+CS306,Computer Vision,CS,PG,online,3,12,4.9,82000,2024
+EE104,Microprocessors,EE,UG,hybrid,4,16,4.5,44000,2024
+EE304,Advanced Communication Systems,EE,PG,hybrid,4,16,4.7,74000,2024
+ME104,Dynamics of Machinery,ME,UG,offline,4,16,4.3,39000,2024
+ME304,Additive Manufacturing,ME,PG,hybrid,3,12,4.7,76000,2024
+CE104,Transportation Engineering,CE,UG,offline,3,14,4.2,34000,2024
+CE303,Smart Infrastructure,CE,PG,hybrid,3,12,4.6,66000,2024
+CHEM104,Analytical Chemistry,CHEM,UG,hybrid,4,16,4.3,37000,2024
+MATH201,Probability Theory,MATH,UG,online,3,14,4.6,31000,2024
+PHYS201,Thermodynamics and Statistical Mechanics,PHYS,UG,hybrid,4,16,4.5,37000,2024
+CS106,Game Development,CS,UG,online,3,12,4.6,46000,2024
+CS205,Compiler Design,CS,UG,hybrid,4,16,4.5,45000,2024
+CS307,Blockchain Technology,CS,PG,online,3,12,4.8,80000,2024
+EE105,Analog Electronics,EE,UG,offline,4,16,4.4,40000,2024
+ME105,Heat Transfer,ME,UG,offline,3,14,4.3,38000,2024
+CE105,Hydraulics,CE,UG,offline,4,16,4.2,35000,2024
+MATH303,Operations Research,MATH,PG,hybrid,4,16,4.7,60000,2024
+CS308,Data Science and Analytics,CS,PG,online,4,16,4.9,84000,2024
+EE305,Internet of Things,EE,PG,hybrid,3,12,4.7,72000,2024
+ME305,Sustainable Manufacturing,ME,PG,hybrid,3,12,4.6,70000,2024
