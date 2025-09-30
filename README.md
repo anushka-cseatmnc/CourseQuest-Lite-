@@ -66,7 +66,8 @@ CourseQuest/
 │   ├── postcss.config.js
 │   └── package.json
 ├── backend/
-│   ├── server.js                # Express server
+│   ├── server.js             # Express server
+    ├── tests.js               # tests
 │   ├── db.js                    # Database operations
 │   ├── courses.csv              # Sample course data (60-80 rows)
 │   └── package.json
@@ -302,4 +303,5 @@ MIT License - see [LICENSE](LICENSE) file
 ---
 
 If you find this helpful, please star the repo!
+
 
