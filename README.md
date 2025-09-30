@@ -75,6 +75,33 @@ CourseQuest/
 └── README.md
 ```
 
+## Testing
+Run Tests -   npm test
+
+## Test Coverage
+The test suite validates all core API endpoints:
+
+## 1. GET /api/courses - Pagination & Filtering.
+
+Verifies courses endpoint returns paginated results
+Checks response structure (courses, pagination metadata)
+Confirms page and limit parameters work correctly
+
+## 2. GET /api/compare - Course Comparison
+
+Compares 2 courses by ID
+Verifies correct courses are returned for side-by-side comparison
+
+## 3. POST /api/ask - Natural Language Parser
+
+Tests NL query parsing (e.g., "online PG courses under 50000")
+Validates parsed filters extraction (delivery_mode, level, max_fee)
+Checks that matching courses are returned
+
+## 4. POST /api/ingest - Security Test
+
+Verifies unauthorized requests are rejected (401 status)
+Confirms token-based authentication works correctly
 ## Getting Started
 
 ### Prerequisites
@@ -275,3 +302,4 @@ MIT License - see [LICENSE](LICENSE) file
 ---
 
 If you find this helpful, please star the repo!
+
